@@ -2,5 +2,5 @@
 public class Email
 {
     // Add your code here
-    public string introduction = "Done\n fun\t hi\' spin\" fin\\";
+    public string Introduction = "Done\n fun\t hi\' spin\" fin\\";
 }
